@@ -1,0 +1,13 @@
+.title{
+    text-align: center
+}
+
+#main{
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+#loading{
+    margin: 0 auto; 
+    width: 144px;
+}
